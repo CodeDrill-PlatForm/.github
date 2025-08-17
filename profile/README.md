@@ -11,3 +11,6 @@ https://docs.google.com/spreadsheets/d/14GEb33rSK1zIerzfDf1lhzsZL5uOsQOG6sCwGiwl
 ## MVP 기능
 
 ![도메인 아키텍처 drawio](https://github.com/user-attachments/assets/130149e7-01cf-4da9-b1e4-80cb9c4af702)
+
+
+## 계획서
